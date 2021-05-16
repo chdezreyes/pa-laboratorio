@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2021-may.-16 20:59" licenseGrade="single" licenseeName="AgileJ community member" licenseeOrganization="agilej-community" populationMethod="manual" version="1.9.2.v20190518-1152">
+        <filterScript>
+
+// no filter script yet defined for this class diagram
+// use CTRL+SPACE for completion suggestions
+
+</filterScript>
+        <class className="Incidencia" modelMemberId="Incidencia" project="IncidenciasIT2" xLocation="909" yLocation="447"/>
+        <class className="Tecnico" modelMemberId="Tecnico" project="IncidenciasIT2" xLocation="1311" yLocation="489"/>
+        <class className="Identificador" modelMemberId="Identificador" project="IncidenciasIT2" xLocation="606" yLocation="448"/>
+    </diagram>
+</ajsv>
