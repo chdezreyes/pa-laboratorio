@@ -60,7 +60,7 @@ public class Incidencia {
      * @return
      */
     public String getFechaInicio() {
-    	SimpleDateFormat format = new SimpleDateFormat("dd-MM-yyyy");
+    	SimpleDateFormat format = new SimpleDateFormat("dd-MM-yyyy HH:mm");
     	String fecha = format.format(fechaInicio);
     	return fecha;
     }
@@ -97,7 +97,7 @@ public class Incidencia {
     	if(fechaFin==null) {
     		return null;
     	}
-    	SimpleDateFormat format = new SimpleDateFormat("dd-MM-yyyy");
+    	SimpleDateFormat format = new SimpleDateFormat("dd-MM-yyyy HH:mm");
     	String fecha = format.format(fechaFin);
     	return fecha;
     }
